@@ -1,0 +1,26 @@
+{
+  "name": "leetcode-js",
+  "version": "1.0.0",
+  "description": "Javascript solutions for Leetcode problems",
+  "scripts": {
+    "show": "leetcode show -x -g -l javascript -o algorithms"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Vincedream/leetcode-solutions-js.git"
+  },
+  "keywords": [
+    "leetcode"
+  ],
+  "author": "vince <artistcoder@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vincedream/leetcode-solutions-js/issues"
+  },
+  "homepage": "https://github.com/Vincedream/leetcode-solutions-js#readme",
+  "devDependencies": {
+    "eslint": "^5.12.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.15.0"
+  }
+}
