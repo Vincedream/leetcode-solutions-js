@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Javascript solutions for Leetcode problems",
   "scripts": {
-    "show": "leetcode show -x -g -l javascript -o algorithms"
+    "show": "leetcode show -x -g -l javascript -o algorithms",
+    "list:done": "leetcode list -q d"
   },
   "repository": {
     "type": "git",
