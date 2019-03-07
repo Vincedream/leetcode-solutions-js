@@ -13,4 +13,5 @@ Javascript solutions for Leetcode problems
 ✔ [ 15 ] 3Sum                                                         Medium (23.33 %)
 ✔ [ 20 ] Valid Parentheses                                            Easy   (35.84 %)
 ✔ [ 26 ] Remove Duplicates from Sorted Array                          Easy   (39.56 %)
+✔ [ 38 ] Count and Say                                                Easy   (39.44 %)
 ✔ [ 42 ] Trapping Rain Water                                          Hard   (41.78 %)
