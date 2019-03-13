@@ -17,3 +17,4 @@ Javascript solutions for Leetcode problems
 ✔ [ 38 ] Count and Say                                                Easy   (39.44 %)
 ✔ [ 42 ] Trapping Rain Water                                          Hard   (41.78 %)
 ✔ [ 58 ] Length of Last Word                                          Easy   (32.14 %)
+✔ [ 66 ] Plus One                                                     Easy   (40.63 %)
