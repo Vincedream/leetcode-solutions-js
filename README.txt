@@ -6,6 +6,7 @@ Javascript solutions for Leetcode problems
 ✔ [  1 ] Two Sum                                                      Easy   (41.39 %)
 ✔ [  4 ] Median of Two Sorted Arrays                                  Hard   (25.48 %)
 ✔ [  6 ] ZigZag Conversion                                            Medium (30.59 %)
+✔ [  7 ] Reverse Integer                                              Easy   (25.11 %)
 ✔ [  9 ] Palindrome Number                                            Easy   (41.86 %)
 ✔ [ 11 ] Container With Most Water                                    Medium (42.45 %)
 ✔ [ 12 ] Integer to Roman                                             Medium (49.70 %)
