@@ -23,3 +23,5 @@ Javascript solutions for Leetcode problems
 ✔ [ 66 ] Plus One                                                     Easy   (40.63 %)
 ✔ [ 557] Reverse Words in a String III                                Easy   (63.07 %)
 ✔ [ 696] Count Binary Substrings                                      Easy   (52.41 %)
+✔ [ 876] Middle of the Linked List                                    Easy   (63.22 %)
+✔ [ 877] Stone Game                                                   Medium (60.45 %)
