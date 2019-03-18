@@ -26,6 +26,8 @@ solutions-list
 ✔ [ 58 ] Length of Last Word                                          Easy   (32.14 %)
 ✔ [ 66 ] Plus One                                                     Easy   (40.63 %)
 ✔ [ 557] Reverse Words in a String III                                Easy   (63.07 %)
+✔ [ 605] Can Place Flowers                                            Easy   (30.67 %)
 ✔ [ 696] Count Binary Substrings                                      Easy   (52.41 %)
 ✔ [ 876] Middle of the Linked List                                    Easy   (63.22 %)
 ✔ [ 877] Stone Game                                                   Medium (60.45 %)
+✔ [ 914] X of a Kind in a Deck of Cards                               Easy   (34.56 %)
