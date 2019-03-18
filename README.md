@@ -16,6 +16,7 @@ https://leetcode.com/vincehua/
 ✔ [ 13 ] Roman to Integer                                             Easy   (51.50 %)
 ✔ [ 14 ] Longest Common Prefix                                        Easy   (32.97 %)
 ✔ [ 15 ] 3Sum                                                         Medium (23.33 %)
+✔ [ 17 ] Letter Combinations of a Phone Number                        Medium (40.28 %)
 ✔ [ 20 ] Valid Parentheses                                            Easy   (35.84 %)
 ✔ [ 26 ] Remove Duplicates from Sorted Array                          Easy   (39.56 %)
 ✔ [ 27 ] Remove Element                                               Easy   (43.49 %)
