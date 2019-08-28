@@ -7,8 +7,8 @@ https://leetcode.com/vincehua/
 solutions-list
 
 ✔ [  1 ] Two Sum                                                      Easy   (41.39 %)
-✔ [  3 ] Longest Substring Without Repeating Characters               Medium (27.33 %)
 ✔ [  2 ] Add Two Numbers                                              Medium (30.54 %)
+✔ [  3 ] Longest Substring Without Repeating Characters               Medium (27.33 %)
 ✔ [  4 ] Median of Two Sorted Arrays                                  Hard   (25.48 %)
 ✔ [  6 ] ZigZag Conversion                                            Medium (30.59 %)
 ✔ [  7 ] Reverse Integer                                              Easy   (25.11 %)
