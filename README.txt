@@ -10,6 +10,7 @@ solutions-list
 ✔ [  2 ] Add Two Numbers                                              Medium (30.54 %)
 ✔ [  3 ] Longest Substring Without Repeating Characters               Medium (27.33 %)
 ✔ [  4 ] Median of Two Sorted Arrays                                  Hard   (25.48 %)
+✔ [  5 ] Longest Palindromic Substring                                Medium (27.80 %)
 ✔ [  6 ] ZigZag Conversion                                            Medium (30.59 %)
 ✔ [  7 ] Reverse Integer                                              Easy   (25.11 %)
 ✔ [  9 ] Palindrome Number                                            Easy   (41.86 %)
