@@ -13,6 +13,7 @@ solutions-list
 ✔ [  5 ] Longest Palindromic Substring                                Medium (27.80 %)
 ✔ [  6 ] ZigZag Conversion                                            Medium (30.59 %)
 ✔ [  7 ] Reverse Integer                                              Easy   (25.11 %)
+✔ [  8 ] String to Integer (atoi)                                     Medium (14.78 %)
 ✔ [  9 ] Palindrome Number                                            Easy   (41.86 %)
 ✔ [ 11 ] Container With Most Water                                    Medium (42.45 %)
 ✔ [ 12 ] Integer to Roman                                             Medium (49.70 %)
