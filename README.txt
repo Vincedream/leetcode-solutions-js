@@ -36,6 +36,7 @@ solutions-list
 ✔ [ 64 ] Minimum Path Sum                                             Medium (51.08 %)
 ✔ [ 66 ] Plus One                                                     Easy   (40.63 %)
 ✔ [ 121] Best Time to Buy and Sell Stock                              Easy   (49.51 %)
+✔ [ 146] LRU Cache                                                    Medium (30.36 %)
 ✔ [ 198] House Robber                                                 Easy   (41.62 %)
 ✔ [ 213] House Robber II                                              Medium (35.95 %)
 ✔ [ 557] Reverse Words in a String III                                Easy   (63.07 %)
