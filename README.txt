@@ -25,6 +25,7 @@ solutions-list
 ✔ [ 20 ] Valid Parentheses                                            Easy   (35.84 %)
 ✔ [ 26 ] Remove Duplicates from Sorted Array                          Easy   (39.56 %)
 ✔ [ 27 ] Remove Element                                               Easy   (43.49 %)
+✔ [ 34 ] Find First and Last Position of Element in Sorted Array      Medium (35.24 %)
 ✔ [ 36 ] Valid Sudoku                                                 Medium (41.75 %)
 ✔ [ 38 ] Count and Say                                                Easy   (39.44 %)
 ✔ [ 42 ] Trapping Rain Water                                          Hard   (41.78 %)
